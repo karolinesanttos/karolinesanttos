@@ -8,10 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png">
-  <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/?size=256&id=46605&format=png">
-  <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/?size=256&id=107497&format=png">
-  <img align="center" alt="Java" height="50" width="50" src="https://img.icons8.com/?size=256&id=46630&format=png">
+  <img align="center" alt="Js" height="40" width="40" src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/?size=256&id=46605&format=png">
+  <img align="center" alt="CSS" height="40" width="40" src="https://img.icons8.com/?size=256&id=107497&format=png">
+  <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/?size=256&id=46630&format=png">
           
 </div>
 <br>
