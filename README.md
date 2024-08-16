@@ -4,8 +4,8 @@
 - 🌱 Atualmente estou estudando programação, angular e java
 - 😄 Pronomes: ela/dela
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png">
