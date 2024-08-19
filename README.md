@@ -22,7 +22,7 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-FFC0CB.svg?style=for-the-badge&logo=Instagram&logoColor=white&font_color=fff)](https://www.instagram.com/kjkkarols/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-FFC0CB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-santos-21683b322/) 
-[![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](karoline.ppsantos@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)<a href = "mailto:karoline.ppsantos@gmail.com">
 
 </div>
 
