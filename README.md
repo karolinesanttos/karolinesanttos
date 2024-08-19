@@ -15,8 +15,8 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=transparent&bg_color=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>
   <a href="https://www.instagram.com/kjkkarols" target="_blank"> <img height="70" width="70" src="https://img.icons8.com/?size=256&id=64142&format=png" target="_blank"></a> 
