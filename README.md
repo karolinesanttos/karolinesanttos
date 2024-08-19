@@ -15,13 +15,14 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinesanttos&icons=true&theme=transparent&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>
-  <a href="https://www.instagram.com/kjkkarols" target="_blank"> <img height="70" width="70" src="https://img.icons8.com/?size=256&id=64142&format=png" target="_blank"></a> 
-  <a href = "mailto:karoline.ppsantos@gmail.com"><img height="70" width="70" src="https://img.icons8.com/?size=256&id=110236&format=png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/karoline-santos-21683b322/" target="_blank"><img height="70" width="70" src="https://img.icons8.com/?size=256&id=64154&format=png" target="_blank"></a> 
+  
+[![Instagram](https://img.shields.io/badge/Instagram-FFC0CB.svg?style=for-the-badge&logo=Instagram&logoColor=white&font_color=fff)](https://www.instagram.com/kjkkarols/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-FFC0CB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-santos-21683b322/) 
+[![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](karoline.ppsantos@gmail.com)
 
 </div>
 
