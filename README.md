@@ -1,26 +1,33 @@
-## Oii, me chamo Karol! 💕
- <img align="left" alt="icon" height="150" width="150" src="https://media.discordapp.net/attachments/1259273645176656022/1274026694394515466/ezgif.com-animated-gif-maker.gif?ex=66c0c152&is=66bf6fd2&hm=475c405e3d31a2ddb97e6c0307b0b6006e2c91642d1cd1f348d70c9102c1f7b1&=">
 
-- 💕 Hoje estou migrando de área
-- 💕 Atualmente estou estudando programação, angular e java
-- 💕 Pronomes: ela/dela
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src="https://i.pinimg.com/736x/a4/0a/7c/a40a7c15b8435212f4d4dbb465d3b95e.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+        𝓀𝒶𝓇𝑜𝓁𝒾𝓃𝑒 𝓈𝒶𝓃𝓉𝑜𝓈 ✧･ﾟ *✧･ﾟ
+    
+</p>                                                                                                                            
+                                                                                                  
+                                                                                                    
+        
+    learn about me ★
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="40" src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png">
-  <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/?size=256&id=46605&format=png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://img.icons8.com/?size=256&id=107497&format=png">
-  <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/?size=256&id=46630&format=png">
-          
-</div>
-<br>
+    
+    ▸ she/her - brazilian - (pt/br + english)
+    │    ▸ frontend                                                                               
+    ▸ learning
+         ▸  angular
+          ▸  java
+           ▸  (𝗅𝗈𝖺𝖽𝗂𝗇𝗀 𝗆𝗈𝗋𝖾 ..)
+        
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinesanttos&count_private=true&show_icons=true&theme=transparent&bg_color=000&border_color=db7093&show_icons=true&icon_color=db7093&title_color=db7093&text_color=db7093&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
- <div>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-FFC0CB.svg?style=for-the-badge&logo=Instagram&logoColor=white&font_color=fff)](https://www.instagram.com/kjkkarols/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-FFC0CB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-santos-21683b322/) 
-[![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karoline.ppsantos@gmail.com)
 
-</div>
+
+
 
